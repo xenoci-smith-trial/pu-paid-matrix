@@ -9,7 +9,7 @@ jobs:
     strategy:
       matrix:
         config: [debug, release]
-    runs-on: macos-latest
+    runs-on: xenoci-macos-latest
     steps:
       - uses: actions/checkout@v4
       - run: if [ "${{ matrix.config }}" = test ]; then swift test; else swift build -c ${{ matrix.config }}; fi
