@@ -1,0 +1,22 @@
+.github/workflows/ci.yml
+  h_e90f0321dd544b 1-15
+Package.swift
+  h_e90f0321dd544b 1-6
+README.md
+  h_e90f0321dd544b 1-3
+Sources/PaidMatrix/PaidMatrix.swift
+  h_e90f0321dd544b 1-3
+Tests/PaidMatrixTests/PaidMatrixTests.swift
+  h_e90f0321dd544b 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "017dc164521d94bfc46abc0e0305b9c9aab2fb0b",
+  "prompts": {},
+  "humans": {
+    "h_e90f0321dd544b": {
+      "author": "001005HS <99410048+001005HS@users.noreply.github.com>"
+    }
+  }
+}
